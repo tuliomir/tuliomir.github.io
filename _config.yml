@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tuliomir.github.io
+title: Tulio Miranda
+tagline: Ideias e pensamentos
+description: Um teste deste ambiente nerd e social
+paginate: 2
